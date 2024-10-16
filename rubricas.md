@@ -69,14 +69,14 @@ Calidad del diseño de la interfaz.
 
 El diseño es adaptativo.
 
-   | El diseño no se adapta de ninguna manera a la configuración del
-   | dispositivo.
+    | El diseño no se adapta de ninguna manera a la configuración del
+    | dispositivo.
 
-   | El diseño se adapta en cierta manera, pero o bien no considera todos las configuraciones
-   | especificados en los requisitos.
+    | El diseño se adapta en cierta manera, pero o bien no considera todos las configuraciones
+    | especificados en los requisitos.
 
-   | El diseño se adapta a la configuración del dispositivo y existe
-   | al menos un diseño específico para cada configuración requerida.
+    | El diseño se adapta a la configuración del dispositivo y existe
+    | al menos un diseño específico para cada configuración requerida.
 
 
 ## Repositorio
